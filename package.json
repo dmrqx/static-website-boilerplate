@@ -1,0 +1,22 @@
+{
+  "name": "dmrq-boilerplate",
+  "version": "0.0.1",
+  "description": "dmrqx Front-End Boilerplate",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Juliana Demarque <email@demarque.com.br>",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "nib": "^1.1.2"
+  }
+}

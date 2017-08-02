@@ -1,0 +1,24 @@
+block variables
+
+doctype
+html(lang=htmlLang)
+    head
+        meta(charset='utf-8')
+        meta(http-equiv='x-ua-compatible' content='ie-edge')
+        title= pageTitle
+        meta(name='viewport' content='width=device-width, initial-scale=1')
+
+        block styles
+            link(rel="stylesheet" href="css/main.min.css")
+
+
+    body(class=classList)
+
+        include organisms/site-header
+
+        block content
+
+        include organisms/site-footer
+
+        block scripts
+            script(src='js/main.min.js')
