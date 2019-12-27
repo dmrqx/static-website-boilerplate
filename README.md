@@ -1,4 +1,4 @@
-dmrqx Boilerplate
+dmrqx's Static Website Boilerplate
 ===================
 
 Yo! This is my first attempt at a [**Gulp**](https://gulpjs.com/)  powered front-end boilerplate.
